@@ -1,0 +1,15 @@
+{
+  "name": "#1",
+  "description": "A rich collection of 10,000 uniquely crafted NFT babies, one for every beautiful baby ever made!",
+  "image": "https://nerdycoderclones.online/metedata/1.png",
+  "edition": 1,
+  "attributes": [
+    { "trait_type": "Body Posture", "value": "laying on tummy" },
+    { "trait_type": "Clothing", "value": "white" },
+    { "trait_type": "Clothing Accessories", "value": "none" },
+    { "trait_type": "Hair Color", "value": "light grey" },
+    { "trait_type": "Headwear", "value": "none" },
+    { "trait_type": "Toy", "value": "none" },
+    { "trait_type": "Accessories", "value": "none" }
+  ]
+}
